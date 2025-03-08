@@ -3,4 +3,5 @@
 
 Para ejecutar el sistema debe poner:
 ```npm install React```
+Actualizacion de readme.md
 
